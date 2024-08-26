@@ -1,0 +1,10 @@
+.paragraph {
+    font-family:arial; 
+    color:#FF0000;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 40px;
+}
